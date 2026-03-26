@@ -1,2 +1,2 @@
 # MetaScope
-MetaScope - CLI Утилита для аналаиза и просмотра метаданных фото, видео, gif. Made by geekom
+MetaScope - CLI Утилита на С++ для аналаиза и просмотра метаданных фото, видео, gif. Made by geekom
